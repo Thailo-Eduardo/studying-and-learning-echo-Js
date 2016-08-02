@@ -1,0 +1,33 @@
+body{
+	background-color:#FFF ;
+}
+
+.content{
+	width: 80%;
+	padding: 2%;
+	margin:  0 auto; 
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: right;
+}
+
+.text{
+	text-align: justify;
+}
+
+.img{
+	width: 600px;
+	height: 400px;
+	margin:  0 auto; 
+}
+
+.img img {
+	width: 100%;
+}
+
+
